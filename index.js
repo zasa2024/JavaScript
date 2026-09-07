@@ -5,3 +5,6 @@ function includes (array, number) {
         return true;
         return false;
 }
+  for(let i of numbers){
+    console.log(i)
+  }
